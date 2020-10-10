@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.hidden {
+    display: none;
+  }
+
+  body {
+    margin: auto, auto;
+    display: flex;
+    justify-content: center;
+  }
+
+  main {
+      max-width: 800px;
+  }
+
+  ul {
+      list-style: none;
+  }
